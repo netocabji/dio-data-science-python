@@ -22,7 +22,7 @@ Caso o usuário faça um saque será verificado se está dentro dos critérios a
  informado ou uma mensagem de erro caso não atenda os requisitos para o depósito. No caso do cliente exceder o limite diário de valor de saque ou exceda a quantidade de vezes permitido para sacar
  será exibido mensagem personalizada informando o devido problema.
 
-A opção de extrato exibe as informações de valor de depósito e saque em ordens as quais foram efetuadas. No caso do cliente não ter feito nenhuma operação será exibido uma mensagem informando ao memsmo.
+A opção de extrato exibe as informações de valor de depósito e saque em ordens as quais foram efetuadas. No caso do cliente não ter feito nenhuma operação será exibido uma mensagem informando ao mesmo.
 
 Toda estrutura foi configurada dentro um comando while para sempre repetir o menu até o cliente desejar sair da conta.
  
